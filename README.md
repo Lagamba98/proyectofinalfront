@@ -4,9 +4,9 @@ Taller final: tienda de servicios de investigación digital y ciberseguridad inf
 
 **Scope elegido: AVANZADO** (Supabase como backend con autenticación real, lectura, creación, edición y eliminación de productos).
 
-- Repositorio: _pega aquí la URL de GitHub_
-- App desplegada: _pega aquí la URL de Vercel_
-- Usuario de prueba: _correo_ / _contraseña_
+- Repositorio: _https://github.com/Lagamba98/proyectofinalfront_
+- App desplegada: _https://proyectofinalfront-gamma.vercel.app/login_
+- Usuario de prueba: _psi.lauragamba@gmail.com_ / _Adit0ms2026*#_
 
 ## Tecnologías
 React 18, Vite, React Router 6, Context API (sesión y carrito), Supabase (Postgres, Auth, RLS), CSS propio responsive, Vercel.
