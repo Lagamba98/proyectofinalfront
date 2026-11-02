@@ -54,4 +54,8 @@ También deben configurarse en Vercel (Project > Settings > Environment Variable
 Importa el repo en Vercel (preset Vite). `vercel.json` incluye un rewrite a `index.html` para que las rutas de React Router funcionen al recargar.
 
 ## Capturas
-_Agrega aquí capturas de /login, /productos, detalle, formulario y /carrito en móvil y escritorio._
+_![Login](capturas/login.png)
+![Productos](capturas/productos.png)
+![Detalle](capturas/detalle.png)
+![Formulario](capturas/formulario.png)
+![Carrito](capturas/carrito.png)_
